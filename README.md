@@ -9,6 +9,13 @@
 
 其中，packages目录用于存放设计的编写好的组件，script是关于命令行生成组件目录的脚本文件。
 
+## 安装
+命令行输入
+```
+npm i --legacy-peer-deps
+```
+由于vite-plugin-md与vite版本不兼容问题，所以需要加入--legacy-peer-deps确保安装
+
 ## 如何创建一个新组件？
 
 在终端中输入以下语句

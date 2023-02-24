@@ -3,7 +3,7 @@
 Vue3组件库，使用TypeScript编写。
 
 ## 文档地址
-https://efy3wv8ro7.feishu.cn/docx/Sm6PdC08qokAhrxdiXdcuKpznTh?from=space_home_recent
+https://nobug2023114.github.io/YouthUI/
 
 ## 使用
 
